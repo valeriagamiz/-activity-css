@@ -1,0 +1,52 @@
+html {
+    font-family: Arial, Helvetiva, sans-serif;
+}
+
+body {
+    background-color: #CC9966;
+}
+ 
+h1{
+    font-family: "Times New Roman", "serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 2.7rem;
+    color: #cc0000 
+} 
+
+p {
+    font-size: 1rem;
+    line-height: 1.75rem
+}
+
+strong {
+    font-weight: bold;
+}
+
+h2 {
+    color: #660033 
+}
+
+em {
+    font-style: italic;
+}
+
+hr{       
+    border: solid 4px #330099;
+}
+
+ul,
+ol {
+    background-color: #FFF;
+}
+
+li{
+    color: #990033;
+}
+
+ol li:first-child {
+    background-color: #CCC;
+}
+ol li:last-child {
+    background-color: #F90;
+}
